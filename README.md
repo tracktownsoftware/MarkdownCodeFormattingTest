@@ -1,5 +1,6 @@
 # MarkdownCodeFormattingTest
-```
+
+```csharp
 namespace SharedSamples.Samples.Workbook.Worksheet.Range.Formatting
 {
     public class ValidationSample : SharedEngineSample
